@@ -39,3 +39,4 @@ Pull request are welcome :-)
 * [sendxmpp](http://sendxmpp.hostname.sk/)
 * [GNU Screen](https://www.gnu.org/software/screen/)
 
+![Bamm screenshot](/screenshot/left_xmpp-right_screen_output.png)
