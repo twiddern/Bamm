@@ -11,6 +11,7 @@
 sudo apt-get update; sudo apt-get upgrade;
 sudo apt-get install -y sendxmpp screen
 git clone https://github.com/coacx/bamm.git
+cd bamm
 ```
 
 ## Configuration
