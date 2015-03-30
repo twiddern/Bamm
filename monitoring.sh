@@ -1,3 +1,4 @@
+# vim:tabstop=2:shiftwidth=2:expandtab
 #!/bin/bash
 
 # XMPP Setup
