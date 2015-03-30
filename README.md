@@ -1,4 +1,4 @@
-# BAMM! - Bash again micro monitoring
+# BAMM! - Burn again micro monitoring
 ## Alpha(!)
 * server monitoring
 * easy to hack
