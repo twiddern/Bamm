@@ -17,8 +17,8 @@ cd bamm
 ```
 
 ## Configuration
-* './hosts.conf' Host and port configuration
-* './xmpp.conf' XMPP credentials
+* `./hosts.conf` Host and port configuration
+* `./xmpp.conf` XMPP credentials
 
 ## Usage
 ```
@@ -31,7 +31,7 @@ screen -x Bamm
 * (!) install script (system wide)
 * startup options, e.g. check intervall
 * alerting: support multiple recipients
-* udp support (hosts.conf: 'udp:www.example.org 179')
+* udp support (hosts.conf: `udp:www.example.org 179`)
 * ...
 
 Pull request are welcome :-)
