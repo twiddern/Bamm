@@ -40,7 +40,7 @@ while true; do
 		# Traceroute and sending message
 		case "$CHECK" in
 			nok)	# Send XMPP notice
-						echo "[$TIME] Warning: Port $PORT on $HOST is not reachable!" \
+						echo "[$TIME] Warning: Port $PORT on $HOST not reachable!" \
 						> ${PWD}/log/"$DATE"-"$HOST".log.swp
 						$XMPP -t -m ${PWD}/log/"$DATE"-"$HOST".log.swp $LOGIN
 
