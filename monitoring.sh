@@ -6,8 +6,6 @@ XMPP=$(which sendxmpp)
 LOGIN=$(cat ${PWD}/xmpp.conf |\
 			awk 'NF && $1!~/^#/ {gsub(/@/, " "); print " -u "$1,"-j "$2, "-p "$3, $4"@"$5}')
 
-
-
 while true; do
 	# Read host.conf
 	while IFS= read HOSTS; do
