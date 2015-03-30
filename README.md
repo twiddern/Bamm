@@ -5,6 +5,8 @@
 * lightweight
 * xmpp alerts
 
+![Bamm screenshot](/screenshot/left_xmpp-right_screen_output.png)
+
 ## Installation
 
 ```
@@ -38,5 +40,3 @@ Pull request are welcome :-)
 * Inspiriert by [kanla](http://kanla.zekjur.net/)
 * [sendxmpp](http://sendxmpp.hostname.sk/)
 * [GNU Screen](https://www.gnu.org/software/screen/)
-
-![Bamm screenshot](/screenshot/left_xmpp-right_screen_output.png)
