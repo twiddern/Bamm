@@ -1,4 +1,4 @@
-# BAMM! - The Bourne-again shell micro monitoring
+# BAMM! - The Bash micro monitoring
 ## Alpha(!)
 * server monitoring
 * easy to hack
