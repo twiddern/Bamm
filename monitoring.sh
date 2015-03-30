@@ -1,5 +1,5 @@
-# vim:tabstop=2:shiftwidth=2:expandtab
 #!/bin/bash
+# vim:tabstop=2:shiftwidth=2:expandtab
 
 # XMPP Setup
 XMPP=$(which sendxmpp)
